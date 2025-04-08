@@ -1,1 +1,1 @@
-pip install https://github.com/MSD-LIVE/msdlive-cli-distro/raw/dev/dist/msdlive_cli-1.2.0-py3-none-any.whl
+pip install https://github.com/MSD-LIVE/msdlive-cli-distro/raw/dev/dist/msdlive_cli-1.2.1-py3-none-any.whl
