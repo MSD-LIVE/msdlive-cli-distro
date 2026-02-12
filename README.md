@@ -1,1 +1,5 @@
-pip install https://github.com/MSD-LIVE/msdlive-cli-distro/raw/dev/dist/msdlive_cli-1.2.4-py3-none-any.whl
+## If installing msdlive-cli for the first time, please run the following command:
+#### `pip install --index-url https://msd-live.github.io/msdlive-cli-distro/simple/ msdlive-cli`
+
+## If upgrading to new version of msdlive-cli, please run the following command:
+#### `pip install --upgrade --index-url https://msd-live.github.io/msdlive-cli-distro/simple/ msdlive-cli`
